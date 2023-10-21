@@ -19,7 +19,7 @@ This project serves as a testament to the potential of data analysis and the app
 
 To find out more about this project, check out the attached presentation below! 
 
-☑️ Tableau notebook for the project: [LINK](https://github.com/qaisaraM/COVID-19-Global-Vaccine-Tracker/blob/845324b72ab414b7df93f562590f8181fd6c6287/Tableau/COVID-19%20Global%20Vaccine%20Tracker.twbx)  
+☑️ Tableau notebook for the project: [LINK](https://public.tableau.com/app/profile/qaisara.mardhiah/viz/COVID-19GlobalVaccineTracker_16979010967930/Dashboard2)  
 
 ☑️ Slides presentation: [LINK](https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/7c8c26da27bb608901dcc9c44c50a146f38a8758/CAPSTONE%20PROJECT%20-%20QAISARA%20MARDHIAH%20BT%20ROSLAN.pdf) 
 
