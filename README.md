@@ -1,5 +1,5 @@
 ![alt text](
-       https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/4eaf512e0ab5f49bc1731101841136d9f2b1aa21/JPG/IMAGE%202.png
+       https://github.com/qaisaraM/COVID-19-Global-Vaccine-Tracker/blob/b75b4e7691dc76db12e16213c18d1911a99db378/Vaccine.png
       )
 
 
