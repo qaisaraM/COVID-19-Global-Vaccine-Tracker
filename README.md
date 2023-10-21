@@ -21,8 +21,6 @@ To find out more about this project, check out the attached presentation below!
 
 ☑️ Tableau notebook for the project: [LINK](https://public.tableau.com/app/profile/qaisara.mardhiah/viz/COVID-19GlobalVaccineTracker_16979010967930/Dashboard2)  
 
-☑️ Slides presentation: [LINK](https://github.com/qaisaraM/Healthcare-Fraud-Detection/blob/7c8c26da27bb608901dcc9c44c50a146f38a8758/CAPSTONE%20PROJECT%20-%20QAISARA%20MARDHIAH%20BT%20ROSLAN.pdf) 
-
 For more information about my Springboard work: 
 📝 All of the documentation, code, and notes can be found [here](https://github.com/qaisaraM/COVID-19-Global-Vaccine-Tracker.git), as well as links to other resources I found helpful for successfully completing the program. 
 
